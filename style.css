@@ -1,0 +1,26 @@
+body{
+	background-color:#222831;
+}
+div.out{
+	background-color:#2d333d;
+	margin-left: auto;
+	margin-right: auto;
+	width:min(10in, 90%);
+	background-color:#2d333d;
+}
+h1{
+	font-size: .55in;
+	color:#77adb0;
+	padding:.25in;
+}
+h2{
+	color:#77adb0;
+}
+h3{
+	color:#77adb0;
+}
+p{
+	color:#efefef;
+	padding:.25in;
+}
+
