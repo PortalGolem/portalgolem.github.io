@@ -8,19 +8,53 @@ div.out{
 	width:min(10in, 90%);
 	background-color:#2d333d;
 }
+div.LeftCard{
+	float: left;
+}
+.card {
+	background-color:#222831;
+	width:30%;
+	padding:.075in;
+	min-width: 2in;
+	text-decoration: none;
+	margin-top: .25in;
+}
+.cardrow{
+	display: flex;
+	margin-left:0;
+	margin-right:0;
+	justify-content: space-evenly;
+	flex-direction: center;
+	flex-wrap: wrap;
+}
+.cardrow:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+img.cardimg{
+	width: 100%;
+	height: auto;
+}
 h1{
 	font-size: .55in;
 	color:#77adb0;
-	padding:.25in;
+	padding-left:.25in;
+	padding-right:.25in;
+	padding-top:.25in;
 }
 h2{
 	color:#77adb0;
+	padding-left:.25in;
 }
 h3{
 	color:#77adb0;
+	font-size:.25in
 }
 p{
 	color:#efefef;
-	padding:.25in;
+	padding-left:.35in;
+	padding-right:.35in;
+	line-height:.3in;
 }
 
