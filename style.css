@@ -1,15 +1,25 @@
 body{
 	background-color:#222831;
 }
+div{
+}
 div.out{
 	background-color:#2d333d;
 	margin-left: auto;
 	margin-right: auto;
-	width:min(10in, 90%);
+	width:min(10in, 90%); 
 	background-color:#2d333d;
 }
-div.LeftCard{
-	float: left;
+.blogPost {
+  font-size: .2in;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.cardDate {
+  font-size: .15in;
+  padding-left: 0in;
+  padding-right: 0in;
+  line-height:0in;
 }
 .card {
 	background-color:#222831;
@@ -17,20 +27,16 @@ div.LeftCard{
 	padding:.075in;
 	min-width: 2in;
 	text-decoration: none;
-	margin-top: .25in;
+	margin-top: .1in;
 }
 .cardrow{
 	display: flex;
-	margin-left:0;
-	margin-right:0;
-	justify-content: space-evenly;
-	flex-direction: center;
+	margin-left:1.5%;
+	margin-right:auto;
+	justify-content: flex-start;
+	flex-direction: row;
 	flex-wrap: wrap;
-}
-.cardrow:after {
-	content: "";
-	display: table;
-	clear: both;
+  gap: 2%;
 }
 img.cardimg{
 	width: 100%;
@@ -46,10 +52,12 @@ h1{
 h2{
 	color:#77adb0;
 	padding-left:.25in;
+  
 }
 h3{
 	color:#77adb0;
 	font-size:.25in
+  margin-top:.05in
 }
 p{
 	color:#efefef;

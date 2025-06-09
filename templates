@@ -1,0 +1,26 @@
+blogCard -
+
+<a href="temp.html" class="card">
+  <img
+  class="cardimg"
+  src="Icons/PlaceHolderGameDevIcon.jpg"
+  alt="Controler Image"
+  />
+  <div>
+    <h3 class="blogPost">Game Development</h3>
+    <p class="cardDate">6/9/25</p>
+  </div>
+</a>
+
+categoryCard -
+
+<a href="temp.html" class="card">
+  <img
+    class="cardimg"
+    src="Icons/PlaceHolderGameDevIcon.jpg"
+    alt="Controler Image"
+  />
+  <div>
+    <h3>Game Development</h3>
+  </div>
+</a>
