@@ -1,0 +1,13 @@
+
+
+<a href="<!--LINKHERE-->" class="card">
+  <img
+    class="cardimg"
+    src="<!--IMAGEHERE-->"
+    alt="Sorry, no alt text."
+  />
+  <div>
+    <h3 class="blogPost"><!--TITLEHERE--></h3>
+    <p class="cardDate"><!--DATEHERE--></p>
+  </div>
+</a>
