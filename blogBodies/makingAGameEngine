@@ -1,0 +1,9 @@
+Hello there! I finally figured out CMake and a little SDL and got everything working together. I've already got it going and was able to complile the SDL sample script they have. I hope to post more updates on that soon so stay tuned for real this time. There's not much of interest but you can see the repo at <a href="https://github.com/PortalGolem/Enthrall">github.com/PortalGolem/Enthrall</a> <br><br>
+
+The engine will be called Enthrall and will mostly define some frameworks for games and animations created from scratch as well as any other programs I want to make with a loop like a game. I plan to support text based games, 2D games, and some basic 3D support. I also want the engine to integrate with Nvim, Asprite, and Blender really well. The goal is to make creating games as seamless as possible without taking away the low level that I want to do things at. <br><br>
+
+Another feature I want for this project is the ability to easily pull any thing I've programmed before and insert it right away. These ambitions are much higher than my current skillset however that 's what I hope to improve during my time developing the engine. The real goal of the engine is to learn as much as I can about programs and to make something I'm proud to show of to people around me. This blog will be the place where I share what I learn and also document how things work until I have proper documentation.<br><br>
+
+I'll get to the specifics of how everything works once I figure out what I'm doing. Until then, <br><br>
+
+Good Luck!
