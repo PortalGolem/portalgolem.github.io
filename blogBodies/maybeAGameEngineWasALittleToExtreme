@@ -1,0 +1,9 @@
+Ok so I think I've made some changes to what I want to do. I said in the last blog post that I want to make a game engine but I realized that I don't currently know what a game needs. So because of this key oversight I'm making some changes. Instead of making an engine I'm going to make a game in pure SDL and C. (I might switch to C++ at some point but I don't want to deal with that rn) <br><br>
+
+So I have a new plan for a new game! The game will be called hydrogen simulator and will folow a molecule of hydrogen as it forms the universe using gravity. The game is inspired by Agar.io combined with resource managment. The game is designed from the ground up to be fundementally simple. You move through space forming larger and more complex things with the goal of crreating and sustaining life while avoiding the heat or cold death of the universe. Overall I think it'll be pretty simple to develop the first version will potentially be done and hopefully compiled to be playable on the web within two weeks from now if my classes allow for it. I've got a lot of ideas that I want to implement and I want the game to be both fun and look really cool. <br><br>
+
+If you wondering about whats going to happen to the game engine idea we'll see what I think about it when I'm done with this game but I might simplify the game engine to compiling existing tools that I like to use together so that collaberation and development is easier. <br> <br>
+
+(also I'm changing my sign off since it doesn't work very well most of the time but here's the last one.) <br> <br>
+
+Good Luck!
