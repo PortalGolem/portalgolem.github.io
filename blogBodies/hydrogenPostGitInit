@@ -1,0 +1,13 @@
+Greetings! I am starting on learning SDL full swing now. I'm beginning mostly by following a wonderful series of tutorials by <a href=https://www.youtube.com/@MikeShah>Mike Shah</a> found <a href=https://www.youtube.com/watch?v=kyD5H6w1x-o&list=PLvv0ScY6vfd-RZSmGbLkZvkgec6lJ0BfX>here</a>
+So far I've got a basic project going with a renderer all set up. I've learned all about windows, renderers, surfaces, and a bunch more and I'm also getting back into the groove of programming. One thing I've been doing that is rather inefficient is making copies of the entire SDL repo for every project which, when coupled with some of my plans, will eventually spell disaster for my 512GB SSD. So I'll have to see about a better way to do that (or if I can't upgrade my SSD). <br> <br>
+
+As for goals my new goal for SDL is to make a bunch of projects that explore specific parts of SDL. HySim's goals are pretty ambitious compared to what I have in mind. With hydrogen sim I hope to <br>
+gain an understanding of the structure of an SDL program <br>
+understand what SDL is capable of, <br>
+how it accomplishes those capabilities, <br>
+and how I can most effectively achieve my goal of making stuff that's cool to look at and fun to interact with <br>
+Each project from now on will have a list of these goals that states why I'm doing what I'm doing. I hope to do one cool thing a week so you'll probably get updates whenever I finish something or whenever I do something interesting or change my plans. <br><br>
+
+If you want updates when I release new posts, or have something to say reach out to me at mail@portalgolem.net <br> <br>
+
+And with that, salutations (does salutations even mean goodbye? IDK its too formal anyway. I'll think of something else)
